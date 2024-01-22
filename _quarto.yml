@@ -1,8 +1,7 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - cv.pdf
+
 
 website:
   title: "Matt Braaksma"
