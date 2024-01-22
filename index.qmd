@@ -4,8 +4,9 @@ image: mbraaksma_bio_2024.jpeg
 about:
   template: trestles
   links:
-    - text: 'Email: braak014@umn.edu'
+    - text: 'braak014@umn.edu'
       url: "mailto:braak014@umn.edu"
+      icon: envelope-fill
     # - text: LinkedIn
     #   url: "https://linkedin.com/in/mikemahoney218"
     - text: GitHub
