@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - cv.pdf
+
+website:
+  title: "Matt Braaksma"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: "CV"
+      # - href: publications
+      #   text: "Publications"
+      # - href: teaching
+      #   text: "Teaching"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

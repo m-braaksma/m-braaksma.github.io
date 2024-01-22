@@ -1,0 +1,22 @@
+---
+title: "Matt Braaksma"
+image: mbraaksma_bio_2024.jpeg
+about:
+  template: trestles
+  links:
+    - text: 'Email: braak014@umn.edu'
+      url: "mailto:braak014@umn.edu"
+    # - text: LinkedIn
+    #   url: "https://linkedin.com/in/mikemahoney218"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/m-braaksma"
+
+comments: false
+---
+
+## Bio
+
+Matt is a PhD candidate in [Applied Economics at the University of Minnesota](https://apec.umn.edu/). He is interested in applied microeconomic research with a focus on environmental and natural resource economics, sustainable development, economic issues of Indigenous communities, and spatial modeling. Specifically, he is working on research involving ecosystem services, economic development, efficient land use, and property rights. He is currently an active member of the [Johnson Polasky Lab](https://johnsonpolaskylab.umn.edu/home).
+Formerly, he worked as a Student Research Associate at the [Center for Health Economics and Policy Studies](https://cheps.sdsu.edu/) (CHEPS) at San Diego State University. He completed his MA in Economics at San Diego State University and his BA in Business Administration at Eastern Washington University. 
+
