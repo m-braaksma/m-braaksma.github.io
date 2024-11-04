@@ -16,7 +16,7 @@ braak014@umn.edu
 
 ## RESEARCH INTERESTS
 
-Environment and Resource Economics | Development Economics | Economic Issues of Indigenous Communities
+Environment and Resource Economics | Land Use Economics | Development Economics | Applied Spatial Analysis | Economic Issues of Indigenous Communities
 
 
 ## EDUCATION
@@ -37,7 +37,17 @@ Environment and Resource Economics | Development Economics | Economic Issues of 
 <!-- -   Note -->
 
 
-## PREDOCTORAL RESEARCH EXPERIENCE{style="page-break-before: always"}
+
+## CURRENT RESEARCH EXPERIENCE{style="page-break-before: always"}
+
+### Research Assistant
+
+***Department of Applied Economics, University of Minnesota*** [June 2024 -- Present]{.cvdate}
+
+Supervised by Dr. Justin Johnson. 
+
+
+## PREDOCTORAL RESEARCH EXPERIENCE
 
 ### Student Research Associate
 
@@ -55,6 +65,7 @@ Supervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director).
 ***Department of Economics, San Diego State University*** [Sept 2020 -- Aug 2020]{.cvdate}
 
 Supervised by Dr. Kangoh Lee and Dr. Jacob Penglase. 
+
 
 <!-- Description. Projects include:
 
@@ -89,6 +100,9 @@ Teaching Assistant for PhD-level Econometrics  [Spring 2024]{.cvdate}
 "Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities", with Dhaval Dave, Yang Liang, Catherine Maclean, and Joseph Sabia. No. w30670. **National Bureau of Economic Research**, 2022. 
 
 ## RECOGNITIONS
+
+#### Teaching Assistant Award for Graduate Level Classes 
+***University of Minnesota, Applied Economics*** [2023-2024]{.cvdate}
 
 #### Graduate Fellowship
 ***University of Minnesota, Applied Economics*** [2022]{.cvdate}

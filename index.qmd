@@ -18,6 +18,6 @@ comments: false
 
 ## Bio
 
-I am a PhD student in [Applied Economics at the University of Minnesota](https://apec.umn.edu/). I am interested in applied microeconomic research with a focus on environmental and natural resource economics, sustainable development, economic issues of Indigenous communities, and spatial modeling. Specifically, I am currently working on research involving ecosystem services, economic development, efficient land use, and property rights. I am currently an active member of the [Johnson Polasky Lab](https://johnsonpolaskylab.umn.edu/home) and I 
+I am a PhD student in [Applied Economics at the University of Minnesota](https://apec.umn.edu/). I am interested in applied microeconomic research with a focus on environmental and natural resource economics, sustainable development, land use economics, economic issues of Indigenous communities, and spatial analysis. Specifically, I am currently working on research involving ecosystem services, economic development, efficient land use, and property rights. I am currently an active member of the [NatCap TEEMs](https://natcapteems.umn.edu/) and I 
 formerly worked as a Student Research Associate at the [Center for Health Economics and Policy Studies](https://cheps.sdsu.edu/) (CHEPS) at San Diego State University. I completed my MA in Economics at San Diego State University and my BA in Business Administration at Eastern Washington University. 
 
