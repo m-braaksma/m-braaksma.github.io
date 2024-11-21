@@ -1,17 +1,17 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Matthew Braaksma"
 format:
   html:
     toc: true
   pdf:
-    author: Matthew Braaksma
     pdf-engine: weasyprint
 css: cv.css
 format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-braak014@umn.edu
+email: [braak014@umn.edu](mailto:braak014@umn.edu) | website: <https://m-braaksma.github.io/>
 :::
 
 ## RESEARCH INTERESTS
@@ -51,7 +51,7 @@ Supervised by Dr. Justin Johnson.
 
 ### Student Research Associate
 
-***Center for Health Economics and Policy Studies, San Diego State University*** [Sept 2020 -- Aug 2020]{.cvdate}
+***Center for Health Economics and Policy Studies, San Diego State University*** [Sept 2020 -- Aug 2022]{.cvdate}
 
 Supervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director). 
 
@@ -62,7 +62,7 @@ Supervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director).
 
 ### Research Assistant
 
-***Department of Economics, San Diego State University*** [Sept 2020 -- Aug 2020]{.cvdate}
+***Department of Economics, San Diego State University*** [Sept 2020 -- Aug 2022]{.cvdate}
 
 Supervised by Dr. Kangoh Lee and Dr. Jacob Penglase. 
 
@@ -101,20 +101,25 @@ Teaching Assistant for PhD-level Econometrics  [Spring 2024]{.cvdate}
 
 ## RECOGNITIONS
 
-#### Teaching Assistant Award for Graduate Level Classes 
-***University of Minnesota, Applied Economics*** [2023-2024]{.cvdate}
+***Teaching Assistant Award for Graduate Level Classes*** 
 
-#### Graduate Fellowship
-***University of Minnesota, Applied Economics*** [2022]{.cvdate}
+University of Minnesota, Applied Economics [2023-2024]{.cvdate}
 
-#### Presidential Graduate Research Fellowship
-***San Diego State University*** [2022]{.cvdate}
+***Graduate Fellowship***
 
-#### McCuen Endowed Economics Scholarship
-***San Diego State University*** [2020]{.cvdate}
+University of Minnesota, Applied Economics [2022]{.cvdate}
 
-#### Transfer Achievement Scholarship 
-***Eastern Washington University*** [2013]{.cvdate}
+***Presidential Graduate Research Fellowship***
+
+San Diego State University [2022]{.cvdate}
+
+***McCuen Endowed Economics Scholarship***
+
+San Diego State University [2020]{.cvdate}
+
+***Transfer Achievement Scholarship*** 
+
+Eastern Washington University [2013]{.cvdate}
 
 
 
