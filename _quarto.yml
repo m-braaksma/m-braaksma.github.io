@@ -5,12 +5,15 @@ project:
 
 website:
   title: "Matt Braaksma"
+  favicon: "img/favicon_io/favicon.ico"
   navbar:
     right:
       - href: index.qmd
         text: Home
       - href: cv.qmd
         text: "CV"
+      - href: presentations.qmd
+        text: "Presentations"
       # - href: publications
       #   text: "Publications"
       # - href: teaching
