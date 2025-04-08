@@ -1,0 +1,22 @@
+---
+title: "Presentations"
+---
+
+
+## NatCap TEEMs (Natural Capital Project: The Earth-Economy Modelers)
+
+<style>
+.slide-deck {
+    border: 3px solid #dee2e6;
+    width: 100%;
+    height: 475px;
+}
+</style>
+
+<div>
+```{=html}
+<iframe class="slide-deck" src="slides/msi_intro.html"></iframe>
+```
+</div>
+
+[Github Repo](https://github.com/m-braaksma/msi_intro)
