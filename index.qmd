@@ -1,6 +1,6 @@
 ---
 title: "Matt Braaksma"
-image: mbraaksma_bio_2024.jpeg
+image: "img/mbraaksma_bio_2024.jpeg"
 about:
   template: trestles
   links:
@@ -12,6 +12,12 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/m-braaksma"
+    - text: Applied Economics Homepage
+      icon: buildings-fill
+      url: "https://apec.umn.edu/"
+    - text: NatCap TEEMs Homepage
+      icon: globe-americas
+      url: "https://natcapteems.umn.edu/"
 
 comments: false
 ---

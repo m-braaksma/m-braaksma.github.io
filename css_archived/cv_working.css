@@ -1,43 +1,43 @@
 /* import fonts */
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600;700&display=swap');
 
-/* === Scope everything to .cv-page so it doesn't bleed into navbar === */
-.cv-page {
+/* general formatting */
+html {
   font-family: 'EB Garamond', serif;
   line-height: 1.5;
   color: #000000;
 }
 
-.cv-page .cvdate {
+.cvdate {
   float: right;
   font-style: italic;
   font-size: 0.9em;
 }
 
-.cv-page header {
+header {
   text-align: center;
   margin-bottom: 2em;
 }
 
-.cv-page header h1.author {
+header h1.author {
   font-size: 2.5em;
   font-weight: 700;
   margin: 0;
 }
 
-.cv-page header h2.title {
+header h2.title {
   font-size: 1.2em;
   font-weight: 600;
   margin: 0.2em 0;
 }
 
-.cv-page .contact-block {
+.contact-block {
   text-align: center;
   font-size: 1em;
   font-style: italic;
 }
 
-.cv-page h2 {
+h2 {
   font-weight: 700;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -46,26 +46,23 @@
   margin-bottom: 0.5em;
 }
 
-.cv-page h3 {
+h3 {
   font-weight: 600;
   font-size: 1.2em;
   margin-bottom: 0.3em;
 }
 
-.cv-page p,
-.cv-page ul,
-.cv-page li {
+p, ul, li {
   font-size: 1em;
   margin: 0.2em 0;
 }
 
-.cv-page ul {
+ul {
   list-style: none;
   padding-left: 1em;
 }
 
-/* Optional bullet override — commented out since you fixed it */
- /* .cv-page ul li::before {
+/* ul li::before {
   content: "•";
   color: #000000;
   font-weight: bold;
@@ -73,19 +70,13 @@
   width: 1em;
 } */
 
-.cv-page a {
+a {
   color: #000000;
   text-decoration: none;
   font-style: italic;
 }
 
-/* === Prevent navbar from inheriting italics/center === */
-.navbar, .navbar * {
-  font-style: normal !important;
-  text-align: left !important;
-}
-
-/* === Printing styles === */
+/* printing styles */
 @media print {
   @page {
     size: a4 portrait;
@@ -100,29 +91,27 @@
     display: block;
   }
 
-  .cv-page .contact-block {
+  .contact-block {
     margin-top: 0;
   }
 
-  .cv-page header h1.author {
+  header h1.author {
     font-size: 2.8em;
   }
 
-  .cv-page header h2.title {
+  header h2.title {
     font-size: 1.4em;
   }
 
-  .cv-page h2 {
+  h2 {
     font-size: 1.6em;
   }
 
-  .cv-page h3 {
+  h3 {
     font-size: 1.3em;
   }
 
-  .cv-page p, 
-  .cv-page ul, 
-  .cv-page li {
+  p, ul, li {
     font-size: 1em;
   }
 }
