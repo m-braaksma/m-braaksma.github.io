@@ -3,7 +3,8 @@ title: "Presentations"
 ---
 
 
-## NatCap TEEMs (Natural Capital Project: The Earth-Economy Modelers)
+## NatCap TEEMs (Natural Capital Project: The Earth-Economy Modelers)  
+<small><em>University of Minnesota, March 2023</em></small>
 
 <style>
 .slide-deck {
@@ -19,4 +20,4 @@ title: "Presentations"
 ```
 </div>
 
-[Github Repo](https://github.com/m-braaksma/msi_intro)
+<small>[Github Repo](https://github.com/m-braaksma/msi_intro)</small>

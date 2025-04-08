@@ -7,11 +7,12 @@ about:
     - text: 'braak014@umn.edu'
       url: "mailto:braak014@umn.edu"
       icon: envelope-fill
-    # - text: LinkedIn
-    #   url: "https://linkedin.com/in/mikemahoney218"
     - text: GitHub
       icon: github
       url: "https://github.com/m-braaksma"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/matthew-braaksma-446097b7"
     - text: Applied Economics Homepage
       icon: buildings-fill
       url: "https://apec.umn.edu/"
