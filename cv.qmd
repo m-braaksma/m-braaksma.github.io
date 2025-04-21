@@ -14,12 +14,15 @@ format-links: [pdf]
 email: [braak014@umn.edu](mailto:braak014@umn.edu) | website: <https://m-braaksma.github.io/>
 :::
 
-## RESEARCH INTERESTS
+--- 
+
+### RESEARCH INTERESTS
 
 Environment and Resource Economics | Land Use Economics | Development Economics | Applied Spatial Analysis | Economic Issues of Indigenous Communities
 
+--- 
 
-## EDUCATION
+### EDUCATION
 
 **Doctor of Philosophy -- Applied Economics** <br> *University of Minnesota* [*Aug 2022 --- Present*]{.cvdate}
 
@@ -36,44 +39,52 @@ Environment and Resource Economics | Land Use Economics | Development Economics 
 -   Minors in Economics and Visual Communication Design
 <!-- -   Note -->
 
+--- 
 
+<!-- ## CURRENT RESEARCH EXPERIENCE{style="page-break-before: always"} -->
+### CURRENT RESEARCH EXPERIENCE
 
-## CURRENT RESEARCH EXPERIENCE{style="page-break-before: always"}
-
-### Research Assistant
+#### Research Assistant
 
 ***Department of Applied Economics, University of Minnesota*** [June 2024 -- Present]{.cvdate}
 
-Supervised by Dr. Justin Johnson. 
+Supervised by Dr. Justin Johnson
+
+- Developed "A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies" with collaborators from the European Commission Joint Research Centre, and Wageningen University & Research.
+
+- Contributed to the development of an integrated modeling framework combining a computable general equilibrium (CGE) model with spatially explicit ecosystem service models to evaluate the economic and ecological consequences of land use change in Kenya, with a focus on policy goals related to carbon storage, pollination services, and spatially targeted restoration and protection.
+
+- Utilized Python and geospatial tools (SEALS, InVEST) to simulate land allocations, analyze ecosystem service outcomes, and assess policy impacts aligned with Kenya’s climate and biodiversity goals.
+
+#### Member, NatCap TEEMs (The Earth-Economy Modelers)  
+**Natural Capital Project, University of Minnesota** [August 2022 -- Present]{.cvdate} 
+
+Led by Nfamara Dampha (Research Center Director), Justin Johnson (PI), and Stephen Polasky (PI)
+
+- Contribute to collaborative research improving Earth-Economy models that integrate ecological, climate, and economic data.
+- Support efforts to align economic systems with environmental stewardship to inform sustainable development policy.
 
 
-## PREDOCTORAL RESEARCH EXPERIENCE
+--- 
 
-### Student Research Associate
+### PREDOCTORAL RESEARCH EXPERIENCE
+
+#### Student Research Associate
 
 ***Center for Health Economics and Policy Studies, San Diego State University*** [Sept 2020 -- Aug 2022]{.cvdate}
 
-Supervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director). 
+Supervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director) 
 
-<!-- Description. Projects include:
-
--   Note
--   Note -->
-
-### Research Assistant
+#### Research Assistant
 
 ***Department of Economics, San Diego State University*** [Sept 2020 -- Aug 2022]{.cvdate}
 
-Supervised by Dr. Kangoh Lee and Dr. Jacob Penglase. 
+Supervised by Dr. Kangoh Lee and Dr. Jacob Penglase 
 
 
-<!-- Description. Projects include:
+--- 
 
--   Note
--   Note -->
-
-
-## SKILLS 
+### SKILLS 
 ***Administrative*** 
 
 G Suite, Git, LaTeX, Microsoft Office Suite
@@ -84,22 +95,28 @@ Python (including spatial), R (including spatial), Stata
 
 ***Teaching*** 
 
-Teaching Assistant for PhD-level Microeconomic Theory [Fall 2023]{.cvdate}
+Teaching Assistant for Managerial Economics  [Spring 2025]{.cvdate}
 
--    APEC 8001 - Dr. Paul Glewwe
--    APEC 8002 - Dr. Rodney Smith
+-    APEC 3002 - Dr. Frances Homans
 
 Teaching Assistant for PhD-level Econometrics  [Spring 2024]{.cvdate}
 
 -    APEC 8213 - Dr. Paul Glewwe
 -    APEC 8214 - Dr. Marc Bellemare
 
+Teaching Assistant for PhD-level Microeconomic Theory [Fall 2023]{.cvdate}
 
+-    APEC 8001 - Dr. Paul Glewwe
+-    APEC 8002 - Dr. Rodney Smith
 
-## WORKING PAPERS
+--- 
+
+### WORKING PAPERS
 "Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities", with Dhaval Dave, Yang Liang, Catherine Maclean, and Joseph Sabia. No. w30670. **National Bureau of Economic Research**, 2022. 
 
-## RECOGNITIONS
+--- 
+
+### RECOGNITIONS
 
 ***Teaching Assistant Award for Graduate Level Classes*** 
 

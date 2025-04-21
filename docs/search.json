@@ -1,59 +1,24 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "email: braak014@umn.edu | website: https://m-braaksma.github.io/"
+    "text": "University of Minnesota, March 2025\n\n\n\n\nGithub Repo"
   },
   {
-    "objectID": "cv.html#research-interests",
-    "href": "cv.html#research-interests",
-    "title": "Curriculum Vitae",
-    "section": "RESEARCH INTERESTS",
-    "text": "RESEARCH INTERESTS\nEnvironment and Resource Economics | Land Use Economics | Development Economics | Applied Spatial Analysis | Economic Issues of Indigenous Communities"
+    "objectID": "presentations.html#natcap-teems-natural-capital-project-the-earth-economy-modelers",
+    "href": "presentations.html#natcap-teems-natural-capital-project-the-earth-economy-modelers",
+    "title": "Presentations",
+    "section": "",
+    "text": "University of Minnesota, March 2025\n\n\n\n\nGithub Repo"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nDoctor of Philosophy – Applied Economics  University of Minnesota Aug 2022 — Present\n\nMaster of Arts – Economics  San Diego State University Aug 2020 — May 2022\n\nBachelor of Arts – Business Administration  Eastern Washington University Sept 2013 — June 2017\n\nMinors in Economics and Visual Communication Design"
-  },
-  {
-    "objectID": "cv.html#current-research-experience",
-    "href": "cv.html#current-research-experience",
-    "title": "Curriculum Vitae",
-    "section": "CURRENT RESEARCH EXPERIENCE",
-    "text": "CURRENT RESEARCH EXPERIENCE\n\nResearch Assistant\nDepartment of Applied Economics, University of Minnesota June 2024 – Present\nSupervised by Dr. Justin Johnson."
-  },
-  {
-    "objectID": "cv.html#predoctoral-research-experience",
-    "href": "cv.html#predoctoral-research-experience",
-    "title": "Curriculum Vitae",
-    "section": "PREDOCTORAL RESEARCH EXPERIENCE",
-    "text": "PREDOCTORAL RESEARCH EXPERIENCE\n\nStudent Research Associate\nCenter for Health Economics and Policy Studies, San Diego State University Sept 2020 – Aug 2022\nSupervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director).\n\n\n\nResearch Assistant\nDepartment of Economics, San Diego State University Sept 2020 – Aug 2022\nSupervised by Dr. Kangoh Lee and Dr. Jacob Penglase."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "SKILLS",
-    "text": "SKILLS\nAdministrative\nG Suite, Git, LaTeX, Microsoft Office Suite\nStatistical\nPython (including spatial), R (including spatial), Stata\nTeaching\nTeaching Assistant for PhD-level Microeconomic Theory Fall 2023\n\nAPEC 8001 - Dr. Paul Glewwe\nAPEC 8002 - Dr. Rodney Smith\n\nTeaching Assistant for PhD-level Econometrics Spring 2024\n\nAPEC 8213 - Dr. Paul Glewwe\nAPEC 8214 - Dr. Marc Bellemare"
-  },
-  {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
-    "title": "Curriculum Vitae",
-    "section": "WORKING PAPERS",
-    "text": "WORKING PAPERS\n“Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities”, with Dhaval Dave, Yang Liang, Catherine Maclean, and Joseph Sabia. No. w30670. National Bureau of Economic Research, 2022."
-  },
-  {
-    "objectID": "cv.html#recognitions",
-    "href": "cv.html#recognitions",
-    "title": "Curriculum Vitae",
-    "section": "RECOGNITIONS",
-    "text": "RECOGNITIONS\nTeaching Assistant Award for Graduate Level Classes\nUniversity of Minnesota, Applied Economics 2023-2024\nGraduate Fellowship\nUniversity of Minnesota, Applied Economics 2022\nPresidential Graduate Research Fellowship\nSan Diego State University 2022\nMcCuen Endowed Economics Scholarship\nSan Diego State University 2020\nTransfer Achievement Scholarship\nEastern Washington University 2013"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
@@ -70,24 +35,10 @@
     "text": "I am a PhD student in Applied Economics at the University of Minnesota. I am interested in applied microeconomic research with a focus on environmental and natural resource economics, sustainable development, land use economics, economic issues of Indigenous communities, and spatial analysis. Specifically, I am currently working on research involving ecosystem services, economic development, efficient land use, and property rights. I am currently an active member of the NatCap TEEMs and I formerly worked as a Student Research Associate at the Center for Health Economics and Policy Studies (CHEPS) at San Diego State University. I completed my MA in Economics at San Diego State University and my BA in Business Administration at Eastern Washington University."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "University of Minnesota, March 2025\n\n\n\n\nGithub Repo"
-  },
-  {
-    "objectID": "presentations.html#natcap-teems-natural-capital-project-the-earth-economy-modelers",
-    "href": "presentations.html#natcap-teems-natural-capital-project-the-earth-economy-modelers",
-    "title": "Presentations",
-    "section": "",
-    "text": "University of Minnesota, March 2025\n\n\n\n\nGithub Repo"
+    "text": "email: braak014@umn.edu | website: https://m-braaksma.github.io/\n\n\n\nRESEARCH INTERESTS\nEnvironment and Resource Economics | Land Use Economics | Development Economics | Applied Spatial Analysis | Economic Issues of Indigenous Communities\n\n\n\nEDUCATION\nDoctor of Philosophy – Applied Economics  University of Minnesota Aug 2022 — Present\n\nMaster of Arts – Economics  San Diego State University Aug 2020 — May 2022\n\nBachelor of Arts – Business Administration  Eastern Washington University Sept 2013 — June 2017\n\nMinors in Economics and Visual Communication Design \n\n\n\n\n\nCURRENT RESEARCH EXPERIENCE\n\nResearch Assistant\nDepartment of Applied Economics, University of Minnesota June 2024 – Present\nSupervised by Dr. Justin Johnson\n\nDeveloped “A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies” with collaborators from the European Commission Joint Research Centre, and Wageningen University & Research.\nContributed to the development of an integrated modeling framework combining a computable general equilibrium (CGE) model with spatially explicit ecosystem service models to evaluate the economic and ecological consequences of land use change in Kenya, with a focus on policy goals related to carbon storage, pollination services, and spatially targeted restoration and protection.\nUtilized Python and geospatial tools (SEALS, InVEST) to simulate land allocations, analyze ecosystem service outcomes, and assess policy impacts aligned with Kenya’s climate and biodiversity goals.\n\n\n\nMember, NatCap TEEMs (The Earth-Economy Modelers)\nNatural Capital Project, University of Minnesota August 2022 – Present\nLed by Nfamara Dampha (Research Center Director), Justin Johnson (PI), and Stephen Polasky (PI)\n\nContribute to collaborative research improving Earth-Economy models that integrate ecological, climate, and economic data.\nSupport efforts to align economic systems with environmental stewardship to inform sustainable development policy.\n\n\n\n\n\nPREDOCTORAL RESEARCH EXPERIENCE\n\nStudent Research Associate\nCenter for Health Economics and Policy Studies, San Diego State University Sept 2020 – Aug 2022\nSupervised by Dr. Joseph Sabia (Director) and Dr. Yang Liang (Co-director)\n\n\nResearch Assistant\nDepartment of Economics, San Diego State University Sept 2020 – Aug 2022\nSupervised by Dr. Kangoh Lee and Dr. Jacob Penglase\n\n\n\n\nSKILLS\nAdministrative\nG Suite, Git, LaTeX, Microsoft Office Suite\nStatistical\nPython (including spatial), R (including spatial), Stata\nTeaching\nTeaching Assistant for Managerial Economics Spring 2025\n\nAPEC 3002 - Dr. Frances Homans\n\nTeaching Assistant for PhD-level Econometrics Spring 2024\n\nAPEC 8213 - Dr. Paul Glewwe\nAPEC 8214 - Dr. Marc Bellemare\n\nTeaching Assistant for PhD-level Microeconomic Theory Fall 2023\n\nAPEC 8001 - Dr. Paul Glewwe\nAPEC 8002 - Dr. Rodney Smith\n\n\n\n\nWORKING PAPERS\n“Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities”, with Dhaval Dave, Yang Liang, Catherine Maclean, and Joseph Sabia. No. w30670. National Bureau of Economic Research, 2022.\n\n\n\nRECOGNITIONS\nTeaching Assistant Award for Graduate Level Classes\nUniversity of Minnesota, Applied Economics 2023-2024\nGraduate Fellowship\nUniversity of Minnesota, Applied Economics 2022\nPresidential Graduate Research Fellowship\nSan Diego State University 2022\nMcCuen Endowed Economics Scholarship\nSan Diego State University 2020\nTransfer Achievement Scholarship\nEastern Washington University 2013"
   }
 ]
