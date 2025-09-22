@@ -1,0 +1,261 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \usepackage{enumitem}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+    output-file: "Matthew_Braaksma_CV.pdf"
+---
+
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf Matthew Braaksma}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}braak014@umn.edu ∙ \href{https://m-braaksma.github.io/}{Website} ∙ \href{https://github.com/m-braaksma}{Github} ∙ \href{https://www.linkedin.com/in/matthew-braaksma/}{LinkedIn}
+\end{center}
+\vspace{15pt}
+
+<!-- RESEARCH INTERESTS -->
+\begin{large}
+  {\bf RESEARCH INTERESTS}
+  \vspace{3pt}
+  \hrule
+Environment and Resource Economics ∙ Land Use Economics ∙ Development Economics
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    Doctor of Philosophy: Applied Economics & Aug 2022 -- Present \\
+  \end{tabular*}
+
+  \vspace{3pt}
+
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{San Diego State University} & San Diego, CA \\
+    Master of Arts: Economics & Aug 2020 -- May 2022 \\
+  \end{tabular*}
+
+  \vspace{3pt}
+
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{Eastern Washington University} & Cheney, WA \\
+    Bachelor of Arts: Business Administration & Sept 2013 -- June 2017 \\
+    Minor: Economics, Visual Communication Design & \\
+  \end{tabular*}
+\end{large}
+\vspace{7pt}
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\vspace{-0.16cm}
+\textbf{Languages and Tools}
+\newline \textit{Proficient:} Python, R, Bash, Python GIS
+\newline \textit{Intermediate:} Git, LaTeX
+\end{large}
+\vspace{7pt}
+
+<!-- CURRENT RESEARCH EXPERIENCE -->
+\begin{large}
+  {\bf CURRENT RESEARCH EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- Present \\
+  \end{tabular*}
+\end{large}
+\vspace{-0.16cm}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Developed ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' with collaborators from the European Commission Joint Research Centre, and Wageningen University \& Research.
+  \item Contributed to the development of an integrated modeling framework combining a computable general equilibrium (CGE) model with spatially explicit ecosystem service models to evaluate the economic and ecological consequences of land use change in Kenya.
+  \item Utilized Python and geospatial tools (SEALS, InVEST) to simulate land allocations, analyze ecosystem service outcomes, and assess policy impacts aligned with Kenya’s climate and biodiversity goals.
+\end{itemize}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{NatCap TEEMs (The Earth-Economy Modelers)} & Twin Cities, MN \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{Student Member} & August 2022 -- Present \\
+  \end{tabular*}
+\end{large}
+\vspace{-0.4cm}
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Contribute to collaborative research improving Earth-Economy models that integrate ecological, climate, and economic data.
+  \item Support efforts to align economic systems with environmental stewardship to inform sustainable development policy.
+\end{itemize}
+\vspace{7pt}
+
+<!-- RESEARCH SECTION -->
+\begin{large}\textbf{RESEARCH}\end{large}
+\vspace{3pt}
+\hrule
+\vspace{6pt}
+\begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
+  \begin{large}\textbf{Working \newline Papers}\end{large} & 
+  Dave, Dhaval, Yang Liang, Catherine Maclean, Joseph Sabia, and Matthew Braaksma. 
+  ``Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities''. 
+  No. w30670. \textit{National Bureau of Economic Research}, 2022. \\
+\end{tabular}
+
+\vspace{6pt}
+\begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
+  \begin{large}\textbf{Publications}\end{large} & 
+  McWay, Ryan, and Matthew Braaksma. 2025. 
+  ``The Political Consequences of Resource Scarcity: Targeted Spending in a Water-Stressed Democracy. 
+  A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023)''. 
+  \textit{World Development Perspectives} 39: 100707. 
+  \url{https://doi.org/10.1016/j.wdp.2025.100707} \\
+\end{tabular}
+
+\vspace{6pt}
+\begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
+  \begin{large}\textbf{Conference Presentations}\end{large} & 
+  ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies.'' 
+  28th Annual Conference on Global Economic Analysis: 
+  ``Accelerating Economic Transformation, Resilience, Diversification, and Job Creation.'' 
+  Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025. \\
+\end{tabular}
+
+\vspace{7pt}
+
+<!-- TEACHING EXPERIENCE -->
+\begin{large}{\bf TEACHING EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+  \textbf{University of Minnesota} & Twin Cities, MN \\
+  \textit{Teaching Assistant} & Spring 2025 \\
+  \textit{APEC 3002: Managerial Economics} & Dr. Frances Homans \\
+\end{tabular*}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+  \textbf{University of Minnesota} & Twin Cities, MN \\
+  \textit{Teaching Assistant, PhD-level} & Spring 2024 \\
+  \textit{APEC 8213: Econometric Analysis III} & Dr. Paul Glewwe \\
+  \textit{APEC 8214: Econometric Analysis IV} & Dr. Marc Bellemare \\
+\end{tabular*}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+  \textbf{University of Minnesota} & Twin Cities, MN \\
+  \textit{Teaching Assistant, PhD-level} & Fall 2023 \\
+  \textit{APEC 8001: Applied Microeconomic Analysis of Consumer Choice and Consumer Demand} & Dr. Paul Glewwe \\
+  \textit{APEC 8002: Applied Microeconomic Analysis of Production and Choice Under Uncertainty} & Dr. Rodney Smith \\
+\end{tabular*}
+\end{large}
+
+<!-- RECOGNITIONS -->
+\begin{large}
+\textbf{RECOGNITIONS}
+\vspace{3pt}
+\hrule
+\vspace{2pt}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{Teaching Assistant Award for Graduate Classes} &  \\
+\textit{University of Minnesota, Applied Economics} & 2023--2024 \\
+\end{tabular*}
+\vspace{-0.17cm}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{Graduate Fellowship} & \\
+\textit{University of Minnesota, Applied Economics} & 2022 \\
+\end{tabular*}
+\vspace{-0.17cm}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{Presidential Graduate Research Fellowship} & \\
+\textit{San Diego State University} & 2020 \\
+\end{tabular*}
+\vspace{-0.17cm}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{McCuen Endowed Economics Scholarship} & \\
+\textit{San Diego State University} & 2020 \\
+\end{tabular*}
+\vspace{-0.17cm}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{Transfer Achievement Scholarship} & \\
+\textit{Eastern Washington University} & 2013 \\
+\end{tabular*}
+
+\end{large}
+
+
+
+<!-- \begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{Teaching Assistant} & Spring 2025 \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{APEC 3002: Managerial Economics} & Dr. Frances Homans \\
+  \end{tabular*}
+
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{Teaching Assistant, PhD-level} & Spring 2024 \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{APEC 8213: Econometric Analysis III} & Dr. Paul Glewwe  \\
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{APEC 8214: Econometric Analysis IV} & Dr. Marc Bellemare  \\   
+  \end{tabular*}
+
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{Teaching Assistant, PhD-level} & Spring 2024 \\
+  \end{tabular*}
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{APEC 8001: Applied Microeconomic Analysis of Consumer Choice and Consumer Demand} & Dr. Paul Glewwe  \\
+  \vspace{-0.17cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{APEC 8002: Applied Microeconomic Analysis of Production and Choice Under Uncertainty} & Dr. Rodney Smith  \\   
+  \end{tabular*}
+
+
+\end{large} -->
+
+
