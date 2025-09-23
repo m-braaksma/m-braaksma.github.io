@@ -1,6 +1,6 @@
 ---
 title: "Matt Braaksma"
-image: "img/mbraaksma_bio_2024.jpeg"
+image: "assets/img/mbraaksma_bio_2024.jpeg"
 about:
   template: trestles
   links:

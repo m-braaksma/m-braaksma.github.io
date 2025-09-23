@@ -89,33 +89,33 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
     \textbf{University of Minnesota} & Twin Cities, MN \\
     \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- Present \\
   \end{tabular*}
-\end{large}
-\vspace{-0.16cm}
+\vspace{-0.6em}
 
 \begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
   \item Developed ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' with collaborators from the European Commission Joint Research Centre, and Wageningen University \& Research.
   \item Contributed to the development of an integrated modeling framework combining a computable general equilibrium (CGE) model with spatially explicit ecosystem service models to evaluate the economic and ecological consequences of land use change in Kenya.
   \item Utilized Python and geospatial tools (SEALS, InVEST) to simulate land allocations, analyze ecosystem service outcomes, and assess policy impacts aligned with Kenya’s climate and biodiversity goals.
 \end{itemize}
+\end{large}
 
 \begin{large}
   \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
     \textbf{NatCap TEEMs (The Earth-Economy Modelers)} & Twin Cities, MN \\
   \end{tabular*}
-  \vspace{-0.17cm}
+  \vspace{-0.3cm}
   \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
     \textit{Student Member} & August 2022 -- Present \\
   \end{tabular*}
-\end{large}
-\vspace{-0.4cm}
+\vspace{-0.6em}
 \begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
   \item Contribute to collaborative research improving Earth-Economy models that integrate ecological, climate, and economic data.
   \item Support efforts to align economic systems with environmental stewardship to inform sustainable development policy.
 \end{itemize}
 \vspace{7pt}
+\end{large}
 
 <!-- RESEARCH SECTION -->
-\begin{large}\textbf{RESEARCH}\end{large}
+\begin{large}\textbf{RESEARCH}
 \vspace{3pt}
 \hrule
 \vspace{6pt}
@@ -144,18 +144,24 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
   ``Accelerating Economic Transformation, Resilience, Diversification, and Job Creation.'' 
   Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025. \\
 \end{tabular}
-
+\end{large}
 \vspace{7pt}
 
 <!-- TEACHING EXPERIENCE -->
 \begin{large}{\bf TEACHING EXPERIENCE}
   \vspace{3pt}
   \hrule
+
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
   \textbf{University of Minnesota} & Twin Cities, MN \\
   \textit{Teaching Assistant} & Spring 2025 \\
   \textit{APEC 3002: Managerial Economics} & Dr. Frances Homans \\
 \end{tabular*}
+\vspace{-0.6em}
+\begin{itemize}[leftmargin=1.5em, nosep]
+  \item Designed and led labs focused on applying economic models to real-world contexts.
+  \item Developed a memo-based assignment on ecosystem services to connect theory with practice.
+\end{itemize}
 
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
   \textbf{University of Minnesota} & Twin Cities, MN \\
@@ -163,6 +169,11 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
   \textit{APEC 8213: Econometric Analysis III} & Dr. Paul Glewwe \\
   \textit{APEC 8214: Econometric Analysis IV} & Dr. Marc Bellemare \\
 \end{tabular*}
+\vspace{-0.6em}
+\begin{itemize}[leftmargin=1.5em, nosep]
+  \item Led R-based labs to help students develop fluency in estimation, diagnostics, and presentation.
+  \item Assisted students in applying econometric methods through problem sets and coding support.
+\end{itemize}
 
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
   \textbf{University of Minnesota} & Twin Cities, MN \\
@@ -170,7 +181,14 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
   \textit{APEC 8001: Applied Microeconomic Analysis of Consumer Choice and Consumer Demand} & Dr. Paul Glewwe \\
   \textit{APEC 8002: Applied Microeconomic Analysis of Production and Choice Under Uncertainty} & Dr. Rodney Smith \\
 \end{tabular*}
+\vspace{-0.6em}
+\begin{itemize}[leftmargin=1.5em, nosep]
+  \item Created recitation slides and guided discussion sections to clarify core theoretical concepts.
+  \item Provided detailed feedback on assignments to support student mastery of technical material.
+\end{itemize}
+
 \end{large}
+
 
 <!-- RECOGNITIONS -->
 \begin{large}
@@ -210,52 +228,5 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
 
 \end{large}
 
-
-
-<!-- \begin{large}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-  \end{tabular*}
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{Teaching Assistant} & Spring 2025 \\
-  \end{tabular*}
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{APEC 3002: Managerial Economics} & Dr. Frances Homans \\
-  \end{tabular*}
-
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-  \end{tabular*}
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{Teaching Assistant, PhD-level} & Spring 2024 \\
-  \end{tabular*}
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{APEC 8213: Econometric Analysis III} & Dr. Paul Glewwe  \\
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{APEC 8214: Econometric Analysis IV} & Dr. Marc Bellemare  \\   
-  \end{tabular*}
-
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-  \end{tabular*}
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{Teaching Assistant, PhD-level} & Spring 2024 \\
-  \end{tabular*}
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{APEC 8001: Applied Microeconomic Analysis of Consumer Choice and Consumer Demand} & Dr. Paul Glewwe  \\
-  \vspace{-0.17cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{APEC 8002: Applied Microeconomic Analysis of Production and Choice Under Uncertainty} & Dr. Rodney Smith  \\   
-  \end{tabular*}
-
-
-\end{large} -->
 
 

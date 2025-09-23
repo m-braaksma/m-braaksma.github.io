@@ -14,10 +14,6 @@ title: "Presentations"
 }
 </style>
 
-<div>
-```{=html}
-<iframe class="slide-deck" src="slides/msi_intro.html"></iframe>
-```
-</div>
+<iframe class="slide-deck" src="assets/slides/msi_intro.html"></iframe>
 
 <small>[Github Repo](https://github.com/m-braaksma/msi_intro)</small>
