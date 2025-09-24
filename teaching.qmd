@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+### Teaching Experience
+
+| Institution | Role & Course | Term | Instructor | Responsibilities |
+|------------|----------------|------|-----------|-----------------|
+| University of Minnesota, Twin Cities, MN | Teaching Assistant – APEC 3002: Managerial Economics | Spring 2025 | Dr. Frances Homans | ‣ Designed and led labs applying economic models to real-world contexts<br>‣ Developed a memo-based assignment on ecosystem services |
+| University of Minnesota, Twin Cities, MN | Teaching Assistant, PhD-level – APEC 8213 & 8214 | Spring 2024 | Drs. Paul Glewwe & Marc Bellemare | ‣ Led R-based labs to develop fluency in estimation, diagnostics, and presentation<br>‣ Assisted students with econometric methods through problem sets and coding support |
+| University of Minnesota, Twin Cities, MN | Teaching Assistant, PhD-level – APEC 8001 & 8002 | Fall 2023 | Drs. Paul Glewwe & Rodney Smith | ‣ Created recitation slides and guided discussions to clarify core theoretical concepts<br>‣ Provided detailed feedback on assignments to support student mastery of technical material |
+
+### Recognitions
+
+| Award | Institution | Term |
+|-------|------------|------|
+| Teaching Assistant Award for 3000/4000 Level Classes | University of Minnesota, Applied Economics | 2024–2025 |
+| Teaching Assistant Award for Graduate Classes | University of Minnesota, Applied Economics | 2023–2024 |
