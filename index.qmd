@@ -19,8 +19,6 @@ about:
     - text: NatCap TEEMs Homepage
       icon: globe-americas
       url: "https://natcapteems.umn.edu/"
-
-comments: false
 ---
 
 ## Bio

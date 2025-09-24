@@ -198,6 +198,12 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
 \vspace{2pt}
 
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{Teaching Assistant Award for 3000/4000 Level Classes} &  \\
+\textit{University of Minnesota, Applied Economics} & 2024--2025 \\
+\end{tabular*}
+\vspace{-0.17cm}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
 \textbf{Teaching Assistant Award for Graduate Classes} &  \\
 \textit{University of Minnesota, Applied Economics} & 2023--2024 \\
 \end{tabular*}
