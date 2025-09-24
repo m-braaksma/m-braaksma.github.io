@@ -8,17 +8,17 @@ website:
   favicon: "assets/img/favicon_io/favicon.ico"
   navbar:
     right:
-      - href: index.qmd
+      - href: index.html
         text: Home
-      - href: cv.qmd
+      - href: cv.html
         text: "CV"
-      - href: research.qmd
+      - href: research.html
         text: "Research"
-      - href: teaching.qmd
+      - href: teaching.html
         text: "Teaching"
-      - href: presentations.qmd
+      - href: presentations.html
         text: "Presentations"
-
+        
 format:
   html:
     theme: cosmo
