@@ -12,12 +12,12 @@ website:
         text: Home
       - href: cv.qmd
         text: "CV"
+      - href: research.qmd
+        text: "Research"
+      - href: teaching.qmd
+        text: "Teaching"
       - href: presentations.qmd
         text: "Presentations"
-      # - href: publications
-      #   text: "Publications"
-      # - href: teaching
-      #   text: "Teaching"
 
 format:
   html:
