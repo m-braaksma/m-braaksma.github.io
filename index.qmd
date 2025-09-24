@@ -13,15 +13,13 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/matthew-braaksma-446097b7"
-    - text: Applied Economics Homepage
+    - text: UMN Applied Economics Homepage
       icon: buildings-fill
       url: "https://apec.umn.edu/"
     - text: NatCap TEEMs Homepage
       icon: globe-americas
       url: "https://natcapteems.umn.edu/"
 ---
-
-## Bio
 
 I am a PhD student in [Applied Economics at the University of Minnesota](https://apec.umn.edu/). I am interested in applied microeconomic research with a focus on environmental and natural resource economics, sustainable development, land use economics, economic issues of Indigenous communities, and spatial analysis. Specifically, I am currently working on research involving ecosystem services, economic development, efficient land use, and property rights. I am currently an active member of the [NatCap TEEMs](https://natcapteems.umn.edu/) and I 
 formerly worked as a Student Research Associate at the [Center for Health Economics and Policy Studies](https://cheps.sdsu.edu/) (CHEPS) at San Diego State University. I completed my MA in Economics at San Diego State University and my BA in Business Administration at Eastern Washington University. 
