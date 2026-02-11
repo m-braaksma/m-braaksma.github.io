@@ -1,5 +1,4 @@
 ---
-# title: "Matt Braaksma"
 image: "assets/img/mbraaksma_bio_2024.jpeg"
 about:
   template: trestles
