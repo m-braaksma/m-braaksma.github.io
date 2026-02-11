@@ -6,6 +6,7 @@ title: "Teaching"
 
 | Institution | Role & Course | Term | Instructor | Responsibilities |
 |------------|----------------|------|-----------|-----------------|
+| University of Minnesota, Twin Cities, MN | Teaching Assistant, PhD-level – APEC 8213 ([Link to course site](https://m-braaksma.github.io/apec8213_spring2026/)) | Spring 2026 | Dr. Paul Glewwe | ‣ Developed a comprehensive course website to enhance student organization and resource accessibility<br>‣ Led R-based labs to develop fluency in estimation, diagnostics, and presentation<br>‣ Assisted students with econometric methods through problem sets and coding support |
 | University of Minnesota, Twin Cities, MN | Teaching Assistant – APEC 3002: Managerial Economics | Spring 2025 | Dr. Frances Homans | ‣ Designed and led labs applying economic models to real-world contexts<br>‣ Developed a memo-based assignment on ecosystem services |
 | University of Minnesota, Twin Cities, MN | Teaching Assistant, PhD-level – APEC 8213 & 8214 | Spring 2024 | Drs. Paul Glewwe & Marc Bellemare | ‣ Led R-based labs to develop fluency in estimation, diagnostics, and presentation<br>‣ Assisted students with econometric methods through problem sets and coding support |
 | University of Minnesota, Twin Cities, MN | Teaching Assistant, PhD-level – APEC 8001 & 8002 | Fall 2023 | Drs. Paul Glewwe & Rodney Smith | ‣ Created recitation slides and guided discussions to clarify core theoretical concepts<br>‣ Provided detailed feedback on assignments to support student mastery of technical material |
