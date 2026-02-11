@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Matt Braaksma"
-  favicon: "assets/img/favicon_io/favicon.ico"
+  favicon: "assets/img/favicon/favicon.ico"
   navbar:
     right:
       - href: index.html
