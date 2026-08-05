@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Matt Braaksma"
-  favicon: "assets/img/favicon/favicon.ico"
+  favicon: "assets/img/pyramid-200.png" # https://viglino.github.io/font-gis/
   navbar:
     right:
       - href: index.html

@@ -37,7 +37,7 @@ format:
   {\bf RESEARCH INTERESTS}
   \vspace{3pt}
   \hrule
-Environment and Resource Economics ∙ Land Use Economics ∙ Development Economics
+Environment and Resource Economics ∙ Geospatial Analysis ∙ Land Use Economics ∙ Ecosystem Services
 \end{large}
 
 \vspace{0.05cm}
@@ -75,8 +75,8 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
   \hrule
 \vspace{-0.16cm}
 \textbf{Languages and Tools}
-\newline \textit{Proficient:} Python, R, Bash, Python GIS
-\newline \textit{Intermediate:} Git, LaTeX
+\newline \textit{Proficient:} Python (gdal, pandas, geopandas, xarray, rasterio), GDAL, NetCDF, SEALS, InVEST, Quarto, Markdown, R (tidyverse, data.table, terra), Stata
+\newline \textit{Intermediate:} Bash, Git, LaTeX
 \end{large}
 \vspace{7pt}
 
@@ -86,15 +86,44 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
   \vspace{3pt}
   \hrule
   \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- Present \\
+    \textbf{University of Minnesota Climate Adaptation Partnership (MCAP)} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Heidi Roop} & June 2026 -- August 2026 \\
   \end{tabular*}
 \vspace{-0.6em}
 
 \begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Developed ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' with collaborators from the European Commission Joint Research Centre, and Wageningen University \& Research.
-  \item Contributed to the development of an integrated modeling framework combining a computable general equilibrium (CGE) model with spatially explicit ecosystem service models to evaluate the economic and ecological consequences of land use change in Kenya.
-  \item Utilized Python and geospatial tools (SEALS, InVEST) to simulate land allocations, analyze ecosystem service outcomes, and assess policy impacts aligned with Kenya’s climate and biodiversity goals.
+  \item Selected to support MCAP climate research applying geospatial computing to explore processing mobility datasets and analyzing cooling center accessibility under changing temperatures and extreme heat events.
+  \item Prepare and process climate projection datasets (NetCDF, GeoTIFF); develop Python/xarray and reproducible workflows for analysis and visualization.
+  \item Assist with updating online mapping tools (dashboards) and collaborate with Dr. Heidi Roop, Dr. Ryan Harp, and Dena Coffman.
+\end{itemize}
+\end{large}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & September 2025 -- Current \\
+  \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Lead development of K‑SEALS fine-scale Land Use / Land Cover projection framework for Korea, translating Nature Futures scenario narratives into spatially explicit LULC futures.
+  \item Integrated and processed multi-source geospatial layers (land cover, protected areas, wetlands, urban proximity, biodiversity indices, connectivity) to generate per-class hectare demand and spatial allocation inputs.
+  \item Implemented a two-stage pipeline: regional-change (per-class coarse hectare demand) and spatial allocation (fine-scale LULC allocation), producing reproducible GeoTIFF and NetCDF-ready outputs and datasets for downstream analysis.
+  \item Built reproducible Python-based workflows (GDAL, pygeoprocessing, SEALS), automated reporting with Quarto, and delivered analysis-ready outputs for collaborators and modeling partners.
+\end{itemize}
+\end{large}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- December 2025 \\
+  \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Co-developed "A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies" with collaborators from the European Commission Joint Research Centre and Wageningen University and Research.
+  \item Contributed to an integrated modeling framework coupling a computable general equilibrium (CGE) model with spatially explicit ecosystem-service models (InVEST, SEALS) to evaluate economic and ecological consequences of land-use policy scenarios in Kenya.
+  \item Implemented data pipelines and analyses using Python and geospatial toolkits (SEALS, InVEST, GDAL), producing reproducible scenario outputs and diagnostics to support policy-relevant assessment.
 \end{itemize}
 \end{large}
 
@@ -108,8 +137,8 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
   \end{tabular*}
 \vspace{-0.6em}
 \begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Contribute to collaborative research improving Earth-Economy models that integrate ecological, climate, and economic data.
-  \item Support efforts to align economic systems with environmental stewardship to inform sustainable development policy.
+  \item Contribute to collaborative research improving integrated Earth–economy models that combine ecological, climate, and economic data for sustainable development analysis.
+  \item Support efforts to align economic modeling with environmental stewardship through improved data integration and reproducible geospatial workflows.
 \end{itemize}
 \vspace{7pt}
 \end{large}
@@ -138,11 +167,32 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
 
 \vspace{6pt}
 \begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
-  \begin{large}\textbf{Conference Presentations}\end{large} & 
-  ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies.'' 
-  28th Annual Conference on Global Economic Analysis: 
-  ``Accelerating Economic Transformation, Resilience, Diversification, and Job Creation.'' 
-  Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025. \\
+\large\textbf{Conference Presentations} &
+\begin{minipage}[t]{\linewidth}
+\hangindent=2em
+\hangafter=1
+``Global Spatially Explicit Land Supply Elasticity Estimates for Economic Modeling.''
+29th Annual Conference on Global Economic Analysis:
+``Confronting Developmental and Environmental Challenges in Asia and the New Trade Landscape.''
+Global Trade Analysis Project (GTAP), Kyoto, Japan, June 17--19, 2026.
+
+\vspace{4pt}
+
+\hangindent=2em
+\hangafter=1
+``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies.''
+28th Annual Conference on Global Economic Analysis:
+``Accelerating Economic Transformation, Resilience, Diversification, and Job Creation.''
+Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
+\end{minipage}
+\\
+\end{tabular}
+
+\vspace{6pt}
+\begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
+  \begin{large}\textbf{Conference \newline Service}\end{large} & 
+  Abstract Reviewer, 29th Annual Conference on Global Economic Analysis, 
+  Global Trade Analysis Project (GTAP), Kyoto, Japan, June 2026. \\
 \end{tabular}
 \end{large}
 \vspace{7pt}
@@ -196,6 +246,12 @@ Environment and Resource Economics ∙ Land Use Economics ∙ Development Econom
 \vspace{3pt}
 \hrule
 \vspace{2pt}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{Abstract of Distinction} &  \\
+\textit{University of Minnesota, CFANS Research Symposium} & 2026 \\
+\end{tabular*}
+\vspace{-0.17cm}
 
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
 \textbf{Teaching Assistant Award for 3000/4000 Level Classes} &  \\
