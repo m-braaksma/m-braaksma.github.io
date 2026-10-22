@@ -1,1 +1,11 @@
 /* css styles */
+
+/* smaller profile photo on the home page */
+.quarto-about-trestles .about-entity {
+  flex: 0 0 28% !important;
+}
+.quarto-about-trestles .about-entity .about-image {
+  max-width: 180px;
+  width: 100%;
+  height: auto;
+}

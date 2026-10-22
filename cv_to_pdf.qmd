@@ -74,74 +74,15 @@ Environment and Resource Economics ∙ Geospatial Analysis ∙ Land Use Economic
   \vspace{3pt}
   \hrule
 \vspace{-0.16cm}
-\textbf{Languages and Tools}
-\newline \textit{Proficient:} Python (gdal, pandas, geopandas, xarray, rasterio), GDAL, NetCDF, SEALS, InVEST, Quarto, Markdown, R (tidyverse, data.table, terra), Stata
-\newline \textit{Intermediate:} Bash, Git, LaTeX
+\noindent\begin{tabular}{@{}p{0.23\textwidth}p{0.75\textwidth}@{}}
+\textbf{Programming} & Python, R, Stata, GAMS, Bash \\
+\textbf{Geospatial \& Data} & GDAL, geopandas, rasterio, xarray, pandas, pygeoprocessing, terra \\
+\textbf{Modeling} & CGE modeling (CGEBox, MANAGE-WB), SEALS, InVEST \\
+\textbf{Workflow} & Git, Quarto, Markdown, \LaTeX \\
+\end{tabular}
 \end{large}
 \vspace{7pt}
 
-<!-- CURRENT RESEARCH EXPERIENCE -->
-\begin{large}
-  {\bf CURRENT RESEARCH EXPERIENCE}
-  \vspace{3pt}
-  \hrule
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota Climate Adaptation Partnership (MCAP)} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Heidi Roop} & June 2026 -- August 2026 \\
-  \end{tabular*}
-\vspace{-0.6em}
-
-\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Selected to support MCAP climate research applying geospatial computing to explore processing mobility datasets and analyzing cooling center accessibility under changing temperatures and extreme heat events.
-  \item Prepare and process climate projection datasets (NetCDF, GeoTIFF); develop Python/xarray and reproducible workflows for analysis and visualization.
-  \item Assist with updating online mapping tools (dashboards) and collaborate with Dr. Heidi Roop, Dr. Ryan Harp, and Dena Coffman.
-\end{itemize}
-\end{large}
-
-\begin{large}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & September 2025 -- Current \\
-  \end{tabular*}
-\vspace{-0.6em}
-
-\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Lead development of K‑SEALS fine-scale Land Use / Land Cover projection framework for Korea, translating Nature Futures scenario narratives into spatially explicit LULC futures.
-  \item Integrated and processed multi-source geospatial layers (land cover, protected areas, wetlands, urban proximity, biodiversity indices, connectivity) to generate per-class hectare demand and spatial allocation inputs.
-  \item Implemented a two-stage pipeline: regional-change (per-class coarse hectare demand) and spatial allocation (fine-scale LULC allocation), producing reproducible GeoTIFF and NetCDF-ready outputs and datasets for downstream analysis.
-  \item Built reproducible Python-based workflows (GDAL, pygeoprocessing, SEALS), automated reporting with Quarto, and delivered analysis-ready outputs for collaborators and modeling partners.
-\end{itemize}
-\end{large}
-
-\begin{large}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- December 2025 \\
-  \end{tabular*}
-\vspace{-0.6em}
-
-\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Co-developed "A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies" with collaborators from the European Commission Joint Research Centre and Wageningen University and Research.
-  \item Contributed to an integrated modeling framework coupling a computable general equilibrium (CGE) model with spatially explicit ecosystem-service models (InVEST, SEALS) to evaluate economic and ecological consequences of land-use policy scenarios in Kenya.
-  \item Implemented data pipelines and analyses using Python and geospatial toolkits (SEALS, InVEST, GDAL), producing reproducible scenario outputs and diagnostics to support policy-relevant assessment.
-\end{itemize}
-\end{large}
-
-\begin{large}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{NatCap TEEMs (The Earth-Economy Modelers)} & Twin Cities, MN \\
-  \end{tabular*}
-  \vspace{-0.3cm}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textit{Student Member} & August 2022 -- Present \\
-  \end{tabular*}
-\vspace{-0.6em}
-\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Contribute to collaborative research improving integrated Earth–economy models that combine ecological, climate, and economic data for sustainable development analysis.
-  \item Support efforts to align economic modeling with environmental stewardship through improved data integration and reproducible geospatial workflows.
-\end{itemize}
-\vspace{7pt}
-\end{large}
 
 <!-- RESEARCH SECTION -->
 \begin{large}\textbf{RESEARCH}
@@ -150,19 +91,37 @@ Environment and Resource Economics ∙ Geospatial Analysis ∙ Land Use Economic
 \vspace{6pt}
 \begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
   \begin{large}\textbf{Working \newline Papers}\end{large} & 
-  Dave, Dhaval, Yang Liang, Catherine Maclean, Joseph Sabia, and Matthew Braaksma. 
-  ``Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities''. 
-  No. w30670. \textit{National Bureau of Economic Research}, 2022. \\
+\begin{minipage}[t]{\linewidth}
+\hangindent=2em
+\hangafter=1
+Braaksma, Matthew.
+``Forest Protection and Landslide Regulation: A Global Ecosystem Service Methodology to Value Avoided Human Mortality''.
+Under review at \textit{Ecosystem Services}. \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7008528}{SSRN}. \href{https://doi.org/10.5281/zenodo.20600890}{Code}.
+
+\vspace{4pt}
+
+\hangindent=2em
+\hangafter=1
+Dave, Dhaval, Yang Liang, Catherine Maclean, Joseph Sabia, and Matthew Braaksma.
+``Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities''.
+No. w30670. \textit{National Bureau of Economic Research}, 2022.
+\end{minipage}
+\\
 \end{tabular}
 
 \vspace{6pt}
 \begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
   \begin{large}\textbf{Publications}\end{large} & 
-  McWay, Ryan, and Matthew Braaksma. 2025. 
-  ``The Political Consequences of Resource Scarcity: Targeted Spending in a Water-Stressed Democracy. 
-  A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023)''. 
-  \textit{World Development Perspectives} 39: 100707. 
-  \url{https://doi.org/10.1016/j.wdp.2025.100707} \\
+\begin{minipage}[t]{\linewidth}
+\hangindent=2em
+\hangafter=1
+McWay, Ryan, and Matthew Braaksma. 2025.
+``The Political Consequences of Resource Scarcity: Targeted Spending in a Water-Stressed Democracy.
+A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023)''.
+\textit{World Development Perspectives} 39: 100707.
+\url{https://doi.org/10.1016/j.wdp.2025.100707}
+\end{minipage}
+\\
 \end{tabular}
 
 \vspace{6pt}
@@ -190,12 +149,81 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
 
 \vspace{6pt}
 \begin{tabular}{@{}p{0.15\textwidth}p{0.83\textwidth}@{}}
-  \begin{large}\textbf{Conference \newline Service}\end{large} & 
+  \begin{large}\textbf{Professional \newline Service}\end{large} & 
   Abstract Reviewer, 29th Annual Conference on Global Economic Analysis, 
-  Global Trade Analysis Project (GTAP), Kyoto, Japan, June 2026. \\
+  Global Trade Analysis Project (GTAP), Kyoto, Japan, June 2026. 
+
+  \vspace{4pt}
+
+  Referee, \textit{Southern Economic Journal}, 2025.  \\
 \end{tabular}
 \end{large}
 \vspace{7pt}
+
+<!-- RESEARCH EXPERIENCE -->
+\newpage
+\begin{large}
+  {\bf RESEARCH EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2026 -- Current \\
+  \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Collaborate with The Nature Conservancy to link a CGE model with SEALS and InVEST for country-level analysis of conservation finance and commitments in the Amazon.
+\end{itemize}
+\end{large}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & September 2025 -- Current \\
+  \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Collaborated on development of K‑SEALS, a fine-scale land use / land cover projection framework for Korea that translates Nature Futures scenario narratives into spatially explicit futures.
+\end{itemize}
+\end{large}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{NatCap TEEMs (Natural Capital Alliance: The Earth-Economy Modelers)} & Twin Cities, MN \\
+  \end{tabular*}
+  \vspace{-0.3cm}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textit{Student Member} & August 2022 -- Present \\
+  \end{tabular*}
+\end{large}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota Climate Adaptation Partnership (MCAP)} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Heidi Roop} & June 2026 -- August 2026 \\
+  \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Supported climate research applying geospatial computing to mobility and climate projection data to analyze cooling center accessibility under extreme heat.
+\end{itemize}
+\end{large}
+
+\begin{large}
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{University of Minnesota} & Twin Cities, MN \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- December 2025 \\
+  \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Co-developed ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' with the European Commission Joint Research Centre and Wageningen University and Research, coupling a CGE model with InVEST and SEALS to evaluate land-use policy scenarios in Kenya.
+\end{itemize}
+\vspace{7pt}
+\end{large}
+
 
 <!-- TEACHING EXPERIENCE -->
 \begin{large}{\bf TEACHING EXPERIENCE}
@@ -203,40 +231,22 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
   \hrule
 
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-  \textbf{University of Minnesota} & Twin Cities, MN \\
-  \textit{Teaching Assistant} & Spring 2025 \\
-  \textit{APEC 3002: Managerial Economics} & Dr. Frances Homans \\
+  \textbf{Augsburg University} & Minneapolis, MN \\
+  \textit{Adjunct Faculty} & Fall 2026 -- Current \\
+  \hspace{1em}\textit{ECO 112: Principles of Macroeconomics} (\href{https://m-braaksma.github.io/eco112_fall2026/}{course site}) \\
 \end{tabular*}
-\vspace{-0.6em}
-\begin{itemize}[leftmargin=1.5em, nosep]
-  \item Designed and led labs focused on applying economic models to real-world contexts.
-  \item Developed a memo-based assignment on ecosystem services to connect theory with practice.
-\end{itemize}
+\vspace{0.4em}
 
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} p{0.78\textwidth} r}
   \textbf{University of Minnesota} & Twin Cities, MN \\
-  \textit{Teaching Assistant, PhD-level} & Spring 2024 \\
-  \textit{APEC 8213: Econometric Analysis III} & Dr. Paul Glewwe \\
-  \textit{APEC 8214: Econometric Analysis IV} & Dr. Marc Bellemare \\
+  \textit{Teaching Assistant} & \\
+  \hspace{1em}APEC 3002: Managerial Economics (Dr. Frances Homans) & Spring 2025 \\
+  \hspace{1em}APEC 8213: Econometric Analysis III (Dr. Paul Glewwe) & Spring 2024, 2026 \\
+  \hspace{1em}APEC 8214: Econometric Analysis IV (Dr. Marc Bellemare) & Spring 2024 \\
+  \hspace{1em}APEC 8001: Consumer Choice and Demand (Dr. Paul Glewwe) & Fall 2023 \\
+  \hspace{1em}APEC 8002: Production and Uncertainty (Dr. Rodney Smith) & Fall 2023 \\
 \end{tabular*}
-\vspace{-0.6em}
-\begin{itemize}[leftmargin=1.5em, nosep]
-  \item Led R-based labs to help students develop fluency in estimation, diagnostics, and presentation.
-  \item Assisted students in applying econometric methods through problem sets and coding support.
-\end{itemize}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-  \textbf{University of Minnesota} & Twin Cities, MN \\
-  \textit{Teaching Assistant, PhD-level} & Fall 2023 \\
-  \textit{APEC 8001: Applied Microeconomic Analysis of Consumer Choice and Consumer Demand} & Dr. Paul Glewwe \\
-  \textit{APEC 8002: Applied Microeconomic Analysis of Production and Choice Under Uncertainty} & Dr. Rodney Smith \\
-\end{tabular*}
-\vspace{-0.6em}
-\begin{itemize}[leftmargin=1.5em, nosep]
-  \item Created recitation slides and guided discussion sections to clarify core theoretical concepts.
-  \item Provided detailed feedback on assignments to support student mastery of technical material.
-\end{itemize}
-
+\vspace{7pt}
 \end{large}
 
 
@@ -272,22 +282,10 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
 \vspace{-0.17cm}
 
 \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Presidential Graduate Research Fellowship} & \\
+\textbf{Presidential Graduate Research Fellowship; McCuen Endowed Economics Scholarship} & \\
 \textit{San Diego State University} & 2020 \\
 \end{tabular*}
 \vspace{-0.17cm}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{McCuen Endowed Economics Scholarship} & \\
-\textit{San Diego State University} & 2020 \\
-\end{tabular*}
-\vspace{-0.17cm}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Transfer Achievement Scholarship} & \\
-\textit{Eastern Washington University} & 2013 \\
-\end{tabular*}
-
 \end{large}
 
 

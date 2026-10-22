@@ -4,6 +4,8 @@ title: "Research"
 
 ## Working Papers
 
+Braaksma, Matthew. "Forest Protection and Landslide Regulation: A Global Ecosystem Service Methodology to Value Avoided Human Mortality". Under review at *Ecosystem Services*. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7008528). [Code](https://doi.org/10.5281/zenodo.20600890).
+
 Dave, Dhaval, Yang Liang, Catherine Maclean, Joseph Sabia, and Matthew Braaksma. "Can Anti-Vaping Policies Curb Drinking Externalities? Evidence from E-Cigarette Taxation and Traffic Fatalities". No. w30670. *National Bureau of Economic Research*, 2022.
 
 ## Publications

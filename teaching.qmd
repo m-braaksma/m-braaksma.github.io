@@ -2,7 +2,13 @@
 title: "Teaching"
 ---
 
-### Teaching Experience
+### Instructor
+
+| Institution | Role & Course | Term | Responsibilities |
+|------------|----------------|------|-----------------|
+| Augsburg University, Minneapolis, MN | Adjunct Faculty – ECO 112: Principles of Macroeconomics ([Link to course site](https://m-braaksma.github.io/eco112_fall2026/)) | Fall 2026 – Current | ‣ Instructor of record for 30 students in an introductory macroeconomics course; designed lectures, quizzes, and assessments<br>‣ Built a course website hosting the syllabus, schedule, new lecture slides (Quarto/reveal.js) following the course's established structure, additional readings, and an exam-review page whose practice problems generate new numbers for each attempt |
+
+### Teaching Assistant
 
 | Institution | Role & Course | Term | Instructor | Responsibilities |
 |------------|----------------|------|-----------|-----------------|
