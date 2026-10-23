@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "Matt Braaksma"
+  title: "Matthew Braaksma"
   favicon: "assets/img/pyramid-200.png" # https://viglino.github.io/font-gis/
   navbar:
     right:
@@ -24,6 +24,10 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header:
+      text: |
+        <script data-goatcounter="https://m-braaksma.goatcounter.com/count"
+                async src="https://gc.zgo.at/count.js"></script>
 
 
 

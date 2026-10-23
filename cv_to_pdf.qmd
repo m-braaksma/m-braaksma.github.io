@@ -130,18 +130,23 @@ A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023)'
 \begin{minipage}[t]{\linewidth}
 \hangindent=2em
 \hangafter=1
-``Global Spatially Explicit Land Supply Elasticity Estimates for Economic Modeling.''
+``The Impacts of Extreme Weather on Human Mobility: A Minnesota Cooling Center Case Study'' (with Dena Coffman, Ryan Harp, and Heidi Roop).
+Poster accepted, AGU Annual Meeting, San Francisco, CA, December 7--11, 2026.
+
+\vspace{4pt}
+
+\hangindent=2em
+\hangafter=1
+``Global Spatially Explicit Land Supply Elasticity Estimates for Economic Modeling'' (with Justin Johnson, Victor Nechifor, and Willem-Jan Van Zeist).
 29th Annual Conference on Global Economic Analysis:
-``Confronting Developmental and Environmental Challenges in Asia and the New Trade Landscape.''
 Global Trade Analysis Project (GTAP), Kyoto, Japan, June 17--19, 2026.
 
 \vspace{4pt}
 
 \hangindent=2em
 \hangafter=1
-``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies.''
+``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' (with Justin Johnson, Victor Nechifor, Willem-Jan Van Zeist, Emanuele Ferrari, and Ole Boysen).
 28th Annual Conference on Global Economic Analysis:
-``Accelerating Economic Transformation, Resilience, Diversification, and Job Creation.''
 Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
 \end{minipage}
 \\
@@ -161,7 +166,6 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
 \vspace{7pt}
 
 <!-- RESEARCH EXPERIENCE -->
-\newpage
 \begin{large}
   {\bf RESEARCH EXPERIENCE}
   \vspace{3pt}
