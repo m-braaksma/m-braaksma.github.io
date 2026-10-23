@@ -37,7 +37,11 @@ format:
   {\bf RESEARCH INTERESTS}
   \vspace{3pt}
   \hrule
-Environment and Resource Economics ∙ Geospatial Analysis ∙ Land Use Economics ∙ Ecosystem Services
+\begin{center}
+Environment and Resource Economics ∙ Land Use Economics ∙ Ecosystem Services\\
+Applied Econometrics ∙ Causal Inference ∙ Earth-Economy Modeling ∙ Geospatial Computing
+\end{center}
+\vspace{0.2em}
 \end{large}
 
 \vspace{0.05cm}
@@ -63,11 +67,11 @@ Environment and Resource Economics ∙ Geospatial Analysis ∙ Land Use Economic
 
   \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
     \textbf{Eastern Washington University} & Cheney, WA \\
-    Bachelor of Arts: Business Administration & Sept 2013 -- June 2017 \\
+    Bachelor of Arts: Business Administration, magna cum laude & Sept 2013 -- June 2017 \\
     Minor: Economics, Visual Communication Design & \\
   \end{tabular*}
 \end{large}
-\vspace{7pt}
+\vspace{4pt}
 
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
@@ -77,11 +81,12 @@ Environment and Resource Economics ∙ Geospatial Analysis ∙ Land Use Economic
 \noindent\begin{tabular}{@{}p{0.23\textwidth}p{0.75\textwidth}@{}}
 \textbf{Programming} & Python, R, Stata, GAMS, Bash \\
 \textbf{Geospatial \& Data} & GDAL, geopandas, rasterio, xarray, pandas, pygeoprocessing, terra \\
-\textbf{Modeling} & CGE modeling (CGEBox, MANAGE-WB), SEALS, InVEST \\
-\textbf{Workflow} & Git, Quarto, Markdown, \LaTeX \\
+\textbf{Econometrics} & Causal inference (difference-in-differences, fixed effects), discrete choice, hurdle models \\
+\textbf{Modeling} & CGE modeling (CGEBox, MANAGE-WB), SEALS, InVEST, multiscale modeling \\
+\textbf{Computing} & HPC (Minnesota Supercomputing Institute), Git, Quarto, Markdown, \LaTeX \\
 \end{tabular}
 \end{large}
-\vspace{7pt}
+\vspace{4pt}
 
 
 <!-- RESEARCH SECTION -->
@@ -163,7 +168,7 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
   Referee, \textit{Southern Economic Journal}, 2025.  \\
 \end{tabular}
 \end{large}
-\vspace{7pt}
+\vspace{4pt}
 
 <!-- RESEARCH EXPERIENCE -->
 \begin{large}
@@ -172,24 +177,14 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
   \hrule
   \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
     \textbf{University of Minnesota} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2026 -- Current \\
+    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- Current \\
   \end{tabular*}
 \vspace{-0.6em}
 
 \begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Collaborate with The Nature Conservancy to link a CGE model with SEALS and InVEST for country-level analysis of conservation finance and commitments in the Amazon.
-\end{itemize}
-\end{large}
-
-\begin{large}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & September 2025 -- Current \\
-  \end{tabular*}
-\vspace{-0.6em}
-
-\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Collaborated on development of K‑SEALS, a fine-scale land use / land cover projection framework for Korea that translates Nature Futures scenario narratives into spatially explicit futures.
+  \item \textit{(June 2026 -- Current)} Collaborate with The Nature Conservancy to link a CGE model with SEALS and InVEST for country-level analysis of conservation finance and commitments in the Amazon.
+  \item \textit{(September 2025 -- Current)} Collaborated on development of K‑SEALS, a fine-scale land use / land cover projection framework for Korea that translates Nature Futures scenario narratives into spatially explicit futures.
+  \item \textit{(June 2024 -- December 2025)} Co-developed ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' with the European Commission Joint Research Centre and Wageningen University and Research, coupling a CGE model with InVEST and SEALS to evaluate land-use policy scenarios in Kenya.
 \end{itemize}
 \end{large}
 
@@ -201,6 +196,11 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
   \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
     \textit{Student Member} & August 2022 -- Present \\
   \end{tabular*}
+\vspace{-0.6em}
+
+\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
+  \item Contributed landslide-regulation estimates to a multi-author global gross ecosystem product (GEP) study (in preparation).
+\end{itemize}
 \end{large}
 
 \begin{large}
@@ -213,20 +213,10 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
 \begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
   \item Supported climate research applying geospatial computing to mobility and climate projection data to analyze cooling center accessibility under extreme heat.
 \end{itemize}
+\vspace{4pt}
 \end{large}
 
-\begin{large}
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-    \textbf{University of Minnesota} & Twin Cities, MN \\
-    \textit{Research Assistant, Supervised by Dr. Justin Johnson} & June 2024 -- December 2025 \\
-  \end{tabular*}
-\vspace{-0.6em}
 
-\begin{itemize}[leftmargin=20pt, topsep=0pt, itemsep=0pt, parsep=0pt]
-  \item Co-developed ``A Framework for Measuring African Ecosystem Services Impacts from Land-Related Policies'' with the European Commission Joint Research Centre and Wageningen University and Research, coupling a CGE model with InVEST and SEALS to evaluate land-use policy scenarios in Kenya.
-\end{itemize}
-\vspace{7pt}
-\end{large}
 
 
 <!-- TEACHING EXPERIENCE -->
@@ -250,7 +240,7 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
   \hspace{1em}APEC 8001: Consumer Choice and Demand (Dr. Paul Glewwe) & Fall 2023 \\
   \hspace{1em}APEC 8002: Production and Uncertainty (Dr. Rodney Smith) & Fall 2023 \\
 \end{tabular*}
-\vspace{7pt}
+\vspace{4pt}
 \end{large}
 
 
@@ -261,36 +251,11 @@ Global Trade Analysis Project (GTAP), Kigali, Rwanda, June 25--27, 2025.
 \hrule
 \vspace{2pt}
 
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Abstract of Distinction} &  \\
-\textit{University of Minnesota, CFANS Research Symposium} & 2026 \\
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} p{0.85\textwidth} r}
+\textbf{Abstract of Distinction}, \textit{UMN CFANS Research Symposium} & 2026 \\
+\textbf{Teaching Assistant Award, 3000/4000-Level Classes}, \textit{UMN Applied Economics} & 2024--2025 \\
+\textbf{Teaching Assistant Award, Graduate Classes}, \textit{UMN Applied Economics} & 2023--2024 \\
+\textbf{Graduate Fellowship}, \textit{UMN Applied Economics} & 2022 \\
+\textbf{Presidential Graduate Research Fellowship; McCuen Endowed Economics Scholarship}, \textit{SDSU} & 2020 \\
 \end{tabular*}
-\vspace{-0.17cm}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Teaching Assistant Award for 3000/4000 Level Classes} &  \\
-\textit{University of Minnesota, Applied Economics} & 2024--2025 \\
-\end{tabular*}
-\vspace{-0.17cm}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Teaching Assistant Award for Graduate Classes} &  \\
-\textit{University of Minnesota, Applied Economics} & 2023--2024 \\
-\end{tabular*}
-\vspace{-0.17cm}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Graduate Fellowship} & \\
-\textit{University of Minnesota, Applied Economics} & 2022 \\
-\end{tabular*}
-\vspace{-0.17cm}
-
-\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
-\textbf{Presidential Graduate Research Fellowship; McCuen Endowed Economics Scholarship} & \\
-\textit{San Diego State University} & 2020 \\
-\end{tabular*}
-\vspace{-0.17cm}
 \end{large}
-
-
-
